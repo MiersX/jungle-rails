@@ -3,10 +3,7 @@ require 'rails_helper'
 RSpec.describe Product, type: :model do
 
  describe 'Validations' do
-  @category = Category.new(name: "Palms")
-  @product = Product.new(name: "Cascade Palm", price_cents: 5000, quantity: 30, category: @category)
-
-
+  
   it 'saves correctly if all fields validate' do
     @category = Category.new(name: "Palms")
     @product = Product.new(name: "Cascade Palm", price_cents: 5000, quantity: 30, category: @category)
