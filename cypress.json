@@ -1,9 +1,6 @@
 {
   "screenshotsFolder": "tmp/cypress_screenshots",
   "videosFolder": "tmp/cypress_videos",
-  "trashAssetsBeforeRuns": false,
-  "cypress-watch-and-reload": {
-    "watch": ["cypress/**"]
-  }
+  "trashAssetsBeforeRuns": false
 
 }
