@@ -25,9 +25,9 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-![]()
-![]()
-![]()
+!["Homepage](https://github.com/MiersX/jungle-rails/blob/master/docs/Homepage.png?raw=true)
+!["Product listings"](https://github.com/MiersX/jungle-rails/blob/master/docs/ProductListings.png?raw=true)
+!["A purchase order](https://github.com/MiersX/jungle-rails/blob/master/docs/PurchaseOrder.png?raw=true)
 
 ## Dependencies
 
